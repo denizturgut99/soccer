@@ -316,7 +316,7 @@ input[type=text]:focus {
 
 .position_played{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     background-color: grey;
     border: 1px solid black;
 }
