@@ -16,7 +16,7 @@ body{
 header {
     
     /* The image used */
-    background-image: url("../screenshots/neymar.jpeg");
+    background-image: url("./screenshots/neymar.jpeg");
 
     
 
@@ -85,7 +85,7 @@ article div img {
 
 section div video {
     border: 20px solid;
-    border-image: url("../screenshots/framework.png") 30 round;
+    border-image: url("./screenshots/framework.png") 30 round;
     border-image-repeat:repeat;
     
 }
